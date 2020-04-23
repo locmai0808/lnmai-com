@@ -1,2 +1,1 @@
-[![](https://img.shields.io/badge/Made%20With-Github%20Spray-lightgrey.svg?style=for-the-badge&logo=github)](https://github.com/Annihil/github-spray)  
-[![](https://i.imgur.com/2DrTn0Z.gif)](https://github.com/Annihil/github-spray)
+![](https://camo.githubusercontent.com/887ad80a6873e106934341f654681a2027bec2c6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c6c4439557434375562644a3078726c64442f67697068792e676966)
